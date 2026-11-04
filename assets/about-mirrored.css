@@ -1,0 +1,5 @@
+/* Review alternative: reverse grid placement only; photograph pixels are untouched. */
+@media (min-width: 761px) {
+  .about-story { direction: rtl; }
+  .about-story-copy { direction: ltr; }
+}
