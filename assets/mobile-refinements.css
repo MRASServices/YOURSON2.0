@@ -1,0 +1,150 @@
+/* Step 1: shared mobile foundations only. Desktop and component layouts stay intact. */
+@media (max-width: 768px) {
+  .navigation-preview #siteHeader > .wrap {
+    width: 100%;
+    padding-inline: 20px;
+  }
+  .navigation-preview .preview-topbar {
+    /* Equal MENU-width side tracks centre the title on the viewport. */
+    grid-template-columns: 64px minmax(0, 1fr) 64px;
+    gap: 8px;
+    height: 68px;
+    min-height: 68px;
+  }
+  .navigation-preview .preview-menu-toggle,
+  .navigation-preview .preview-contact {
+    min-width: 44px;
+    min-height: 44px;
+    padding-block: 8px;
+    font-size: .65rem;
+  }
+  .navigation-preview .preview-page-title {
+    min-width: 0;
+    max-width: none;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    font-size: clamp(1rem, 4.8vw, 1.625rem);
+    line-height: 1.25;
+    white-space: normal;
+  }
+  .navigation-preview .preview-title-home {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 44px;
+  }
+  .navigation-preview .preview-home-logo {
+    justify-self: center;
+    width: min(179.2px, 100%);
+    min-height: 44px;
+    display: flex;
+    align-items: center;
+  }
+  .navigation-preview #siteHeader .preview-contact { display: none; }
+  .navigation-preview .preview-menu-close { width: 44px; height: 44px; }
+  .navigation-preview .preview-menu-submenu a {
+    display: flex;
+    align-items: center;
+    min-height: 44px;
+  }
+  .home.navigation-preview { --home-header-height: 69px; }
+
+  /* Introductory prose only: deliberately excludes cards, profiles and the footer. */
+  .navigation-preview #main.services-main,
+  .navigation-preview #main.resource-main { padding-top: 101px; }
+  .navigation-preview #main.about-main { padding-top: 105px; }
+  .services-heading > p,
+  .resource-intro p,
+  .about-story-copy > p:not(.about-signature),
+  .about-value p {
+    font-size: 1rem;
+    line-height: 1.6;
+  }
+  .services-heading > p + p { margin-top: 20px; }
+  .resource-intro p,
+  .about-story-copy > p:not(.about-signature),
+  .about-value p { margin-bottom: 20px; }
+  .resource-intro p:last-child,
+  .about-story-copy > p:last-child,
+  .about-value p:last-child { margin-bottom: 0; }
+}
+@media (max-width: 760px) {
+  /* Keep the approved card widths; inset only the reading blocks to 22px. */
+  .services-heading,
+  .resource-intro { width: calc(100% - 8px); }
+  .services-page .services-introduction > p:not(.services-intro-quote) {
+    text-align: left;
+    margin-inline: 0;
+  }
+  .services-introduction > .services-intro-quote { text-align: center; }
+}
+
+/* Step 2: page compositions and card proportions on phones only. */
+@media (max-width: 760px) {
+  .about-story-copy--introduction { order: 1; }
+  .about-photo-group--introduction { order: 2; }
+  .about-story-copy--purpose { order: 3; }
+  .about-photo-group--purpose { order: 4; }
+  .about-story-copy--philosophy { order: 5; }
+  .about-photo-group--philosophy { order: 6; }
+  /* Approximately 77% of the previous photo and title-panel heights. */
+  .home.navigation-preview .preview-card-photo { aspect-ratio: 1.56 / 1; }
+  .home.navigation-preview .preview-card-info { min-height: 96px; padding: 18px; }
+  .home.navigation-preview .preview-nav-card:nth-child(1) .preview-card-photo img { object-position: center 20%; }
+  .home.navigation-preview .preview-nav-card:nth-child(2) .preview-card-photo img { object-position: center 65%; }
+}
+@media (max-width: 620px) {
+  /* Preserve existing tablet arrangements; phones get full-width cards. */
+  .services-page .services-stack {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 24px;
+    overflow: visible;
+    padding-bottom: 0;
+    scroll-snap-type: none;
+  }
+  .services-page .services-category-media { aspect-ratio: 1.6 / 1; }
+  .services-page .services-category-summary { min-height: 118px; padding: 20px; }
+  .services-page .services-summary-copy { gap: 10px; }
+  .services-page #your-property .services-category-image,
+  .services-page #your-errands .services-category-image { object-position: center top; }
+  .services-page .services-category-body { padding: 22px 20px; }
+  .services-page .services-group li { overflow-wrap: break-word; }
+  .services-page .services-category-contact { min-height: 44px; }
+  .contact-page .contact-option .resource-card-info {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) 24px;
+    grid-template-rows: auto auto;
+    align-content: center;
+    gap: 8px 16px;
+    min-height: 122px;
+    padding: 18px 22px;
+  }
+  .contact-page .contact-option-title { grid-column: 1; grid-row: 1; }
+  .contact-page .contact-option-detail { grid-column: 1; grid-row: 2; margin-top: 0; }
+  .contact-page .contact-option-arrow {
+    grid-column: 2;
+    grid-row: 1 / 3;
+    align-self: center;
+    margin-top: 0;
+    padding-top: 0;
+  }
+  .resource-page:not(.contact-page) .resource-card-info { padding: 20px; }
+  .resource-page:not(.contact-page) .resource-card-info h2 { margin-bottom: 8px; }
+  .resource-page:not(.contact-page) .resource-actions { margin-top: 16px; padding-top: 10px; }
+  .resource-page:not(.contact-page) .resource-actions a {
+    display: inline-flex;
+    align-items: center;
+    min-height: 44px;
+    padding-block: 8px;
+  }
+  .phonebook-page .resource-photo { aspect-ratio: 3 / 2; }
+  .friends-page .resource-photo--friend { aspect-ratio: 3 / 2; }
+  .goods-page .resource-photo--goods { aspect-ratio: 1.6 / 1; }
+  .goods-page .goods-details { padding: 0 20px 20px; }
+  .goods-page .resource-detail summary,
+  .goods-page .resource-enquiry { min-height: 44px; }
+  .memories-page .resource-photo { aspect-ratio: 3 / 2; }
+  .memories-page .memory-details > summary { min-height: 0; padding-right: 46px; }
+  .memories-page .memory-details > .resource-detail-body { padding: 20px; }
+}
