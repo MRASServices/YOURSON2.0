@@ -1,0 +1,104 @@
+.contact-options { gap: 24px; }
+.contact-option { display: block; color: var(--ink); text-decoration: none; }
+.contact-option .resource-card-info { display: flex; flex-direction: column; min-height: 210px; height: 100%; }
+.contact-option-title { font-size: 1.3rem; font-weight: 500; letter-spacing: .06em; }
+.contact-option-detail { margin-top: 18px; font-size: .9rem; font-weight: 350; line-height: 1.65; overflow-wrap: anywhere; }
+.contact-option-arrow { align-self: flex-end; margin-top: auto; padding-top: 24px; font-size: 24px; }
+.contact-option:focus-visible { outline: 2px solid var(--preview-accent); outline-offset: 4px; }
+.contact-option:focus-visible .resource-card-info { background: var(--preview-accent); }
+@media (hover: hover) { .contact-option:hover .resource-card-info { background: var(--preview-accent); } }
+@media (max-width: 620px) { .contact-option .resource-card-info { min-height: 170px; } }
+
+@property --contact-sweep {
+  syntax: "<percentage>";
+  inherits: true;
+  initial-value: 0%;
+}
+
+.contact-option:active .resource-card-info {
+  background-color: #993017;
+  color: #fff;
+}
+
+@media (width > 768px) {
+  .contact-page .contact-options {
+    grid-template-columns: minmax(0, 1fr);
+    width: min(100%, 70vw, 68rem);
+    margin-inline: auto;
+    gap: 16px;
+  }
+
+  .contact-page .contact-option {
+    --contact-sweep: 0%;
+    background-image: linear-gradient(to right, #993017 var(--contact-sweep), transparent 0);
+    transition: --contact-sweep 400ms ease-in-out;
+  }
+
+  .contact-page .contact-option .resource-card-info {
+    display: grid;
+    grid-template-columns: minmax(6rem, 19%) minmax(0, 1fr);
+    align-items: center;
+    column-gap: clamp(20px, 3.5vw, 44px);
+    min-height: 82px;
+    padding: 16px clamp(24px, 3.5vw, 44px);
+    /* Share the fill's edge so only the text over red is white. */
+    background: linear-gradient(to right, #fff var(--contact-sweep), var(--ink) 0) text;
+    color: transparent;
+    transition: none;
+  }
+
+  .contact-page .contact-option-title {
+    display: flex;
+    align-items: center;
+    min-height: 44px;
+    border-inline-end: 1px solid var(--ink);
+  }
+
+  .contact-page .contact-option-detail { margin-top: 0; }
+  .contact-page .contact-option-arrow { display: none; }
+
+  .contact-page .contact-option:is(:focus-visible, :active) { --contact-sweep: 100%; }
+  .contact-page .contact-option:active { transition-duration: 0s; }
+
+  @media (hover: hover) {
+    .contact-page .contact-option:hover { --contact-sweep: 100%; }
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .contact-page .contact-option { transition: none; }
+  }
+
+  @media (forced-colors: active) {
+    .contact-page .contact-option .resource-card-info { background: none; color: LinkText; }
+  }
+}
+
+/* Contact-only sign-off and footer spacing. */
+.contact-page #main.resource-main { padding-bottom: 24px; }
+.navigation-preview.contact-page .preview-site-footer { padding-bottom: 24px; }
+
+.contact-signoff {
+  max-width: 38rem;
+  margin: 52px auto 0;
+  text-align: center;
+  color: #993017;
+}
+.contact-signoff p { margin: 0; }
+.contact-signoff .contact-signoff-label {
+  font: italic 400 1.25rem/24px Georgia, "Times New Roman", serif;
+  margin-bottom: 6px;
+}
+.contact-signoff .contact-signoff-main {
+  font-size: 1.125rem;
+  font-weight: 500;
+  line-height: 28px;
+  margin-bottom: 4px;
+}
+.contact-signoff .contact-signoff-note {
+  color: var(--ink);
+  font-size: .9rem;
+  line-height: 22px;
+}
+@media (max-width: 768px) {
+  .contact-signoff { margin-top: 32px; }
+}

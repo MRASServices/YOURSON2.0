@@ -1,0 +1,89 @@
+/* Universal information bar; styles are scoped to the footer. */
+.navigation-preview .preview-site-footer,
+.home.navigation-preview .preview-site-footer {
+  padding: 24px 0 40px;
+  border: 0;
+  border-top: 1px solid #16161635;
+  border-radius: 0;
+  background: var(--bg);
+  color: var(--ink);
+}
+.navigation-preview .preview-site-footer > .preview-footer-inner {
+  width: 100%;
+  margin: 0 auto;
+  padding: 0 var(--pad);
+}
+.home.navigation-preview .preview-site-footer > .preview-footer-inner {
+  width: 100%;
+}
+.preview-footer-columns {
+  display: grid;
+  grid-template-columns: repeat(4, max-content);
+  justify-content: space-between;
+  gap: 32px;
+  align-items: start;
+}
+.preview-footer-column {
+  min-width: 0;
+  font-size: .9rem;
+  font-weight: 350;
+  line-height: 1.7;
+  letter-spacing: normal;
+  text-align: left;
+  color: var(--ink);
+}
+.preview-footer-column .preview-footer-title {
+  margin: 0 0 10px;
+  color: #983019;
+  font-size: .77rem;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+}
+.preview-footer-column p { margin: 0 0 3px; }
+.preview-footer-column p:last-child { margin-bottom: 0; }
+.preview-footer-column .preview-footer-note { font-style: italic; }
+.preview-footer-contact { font-style: normal; margin: 0; }
+.preview-footer-contact a { color: inherit; text-decoration: none; overflow-wrap: anywhere; }
+.preview-footer-contact a:hover { color: #983019; text-decoration: underline; text-underline-offset: 4px; }
+.preview-footer-contact a:focus-visible { outline: 2px solid #983019; outline-offset: 5px; }
+@media (max-width: 900px) {
+  .preview-footer-columns { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 24px 32px; }
+}
+@media (max-width: 480px) {
+  .navigation-preview .preview-site-footer,
+  .home.navigation-preview .preview-site-footer { padding: 22px 0 38px; }
+  .preview-footer-columns { grid-template-columns: minmax(0, 1fr); gap: 22px; }
+}
+
+/* A shared mobile closure line; desktop retains its original Sunday notices. */
+.preview-footer-sunday { display: none; }
+@media (max-width: 768px) {
+  .navigation-preview .preview-site-footer,
+  .home.navigation-preview .preview-site-footer { padding: 22px 0 30px; }
+  .preview-site-footer .preview-footer-columns {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    justify-content: normal;
+    gap: 22px 20px;
+  }
+  .preview-site-footer .preview-footer-column { font-size: .875rem; line-height: 1.6; }
+  .preview-site-footer .preview-footer-title { margin-bottom: 8px; }
+  .preview-site-footer .preview-footer-note { font-size: .825rem; }
+  .preview-site-footer .preview-footer-sunday-inline { display: none; }
+  .preview-site-footer .preview-footer-contact a {
+    display: block;
+    min-height: 44px;
+    align-content: center;
+    max-width: 100%;
+  }
+  .preview-site-footer .preview-footer-sunday {
+    display: block;
+    margin: 18px 0 0;
+    color: var(--ink);
+    font-size: .825rem;
+    font-weight: 350;
+    line-height: 1.5;
+    text-align: center;
+  }
+}
