@@ -144,7 +144,7 @@
   .goods-page .goods-details { padding: 0 20px 20px; }
   .goods-page .resource-detail summary,
   .goods-page .resource-enquiry { min-height: 44px; }
-  .memories-page .resource-photo { aspect-ratio: 3 / 2; }
-  .memories-page .memory-details > summary { min-height: 0; padding-right: 46px; }
-  .memories-page .memory-details > .resource-detail-body { padding: 20px; }
+  .our-work-page .resource-photo { aspect-ratio: 3 / 2; }
+  .our-work-page .memory-details > summary { min-height: 0; padding-right: 46px; }
+  .our-work-page .memory-details > .resource-detail-body { padding: 20px; }
 }
