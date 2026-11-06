@@ -3,10 +3,10 @@
 const categories = {
   about: {
     title: 'About Us',
-    description: 'Get to know Your Son and explore our memories.',
+    description: 'Get to know Your Son and explore our completed projects.',
     links: [
       ['About Your Son', 'The story behind the name.', 'about.html'],
-      ['Our Memories', 'A look at the work and moments along the way.', 'memories.html']
+      ['Our Work', 'A look at our completed projects.', 'our-work.html']
     ]
   },
   resources: {

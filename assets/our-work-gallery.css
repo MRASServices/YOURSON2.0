@@ -1,0 +1,8 @@
+/* Our Work photographs retain their complete native composition. */
+.our-work-page .memory-photo { aspect-ratio: auto; }
+.our-work-page .memory-photo img { width: 100%; height: auto; object-fit: contain; transform: none; }
+.our-work-page .memory-gallery-stage { height: auto; overflow: visible; background: transparent; }
+.our-work-page .memory-gallery-stage img { display: block; width: auto; height: auto; min-width: 0; min-height: 0; max-width: 100%; max-height: min(65dvh, 680px); object-fit: contain; margin-inline: auto; }
+@media (max-width: 760px) {
+  .our-work-page .memory-gallery-stage img { max-height: 58dvh; }
+}

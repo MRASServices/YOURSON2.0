@@ -1,0 +1,947 @@
+[
+  {
+    "title": "She-Shed Build (Ongoing)",
+    "slug": "she-shed-build-ongoing",
+    "before": 12,
+    "after": 1,
+    "images": [
+      "assets/projects/she-shed-build-ongoing/before-01.webp",
+      "assets/projects/she-shed-build-ongoing/before-02.webp",
+      "assets/projects/she-shed-build-ongoing/before-03.webp",
+      "assets/projects/she-shed-build-ongoing/before-04.webp",
+      "assets/projects/she-shed-build-ongoing/before-05.webp",
+      "assets/projects/she-shed-build-ongoing/before-06.webp",
+      "assets/projects/she-shed-build-ongoing/before-07.webp",
+      "assets/projects/she-shed-build-ongoing/before-08.webp",
+      "assets/projects/she-shed-build-ongoing/before-09.webp",
+      "assets/projects/she-shed-build-ongoing/before-10.webp",
+      "assets/projects/she-shed-build-ongoing/before-11.webp",
+      "assets/projects/she-shed-build-ongoing/before-12.webp",
+      "assets/projects/she-shed-build-ongoing/after-01.webp"
+    ],
+    "source": [
+      {
+        "phase": "before",
+        "file": "assets/projects/she-shed-build-ongoing/before-01.webp",
+        "original": "She-Shed Build (Ongoing)/Before/5EAAB530-8727-4D04-A8F0-753C15A155B5.heic"
+      },
+      {
+        "phase": "before",
+        "file": "assets/projects/she-shed-build-ongoing/before-02.webp",
+        "original": "She-Shed Build (Ongoing)/Before/D4F39DA4-DB8A-4A82-8012-9F288B224CBE.heic"
+      },
+      {
+        "phase": "before",
+        "file": "assets/projects/she-shed-build-ongoing/before-03.webp",
+        "original": "She-Shed Build (Ongoing)/Before/11932C9C-9B7A-46C8-B20B-0693E596695C.heic"
+      },
+      {
+        "phase": "before",
+        "file": "assets/projects/she-shed-build-ongoing/before-04.webp",
+        "original": "She-Shed Build (Ongoing)/Before/2AFB3792-C31C-4565-BC44-AE141624F053.heic"
+      },
+      {
+        "phase": "before",
+        "file": "assets/projects/she-shed-build-ongoing/before-05.webp",
+        "original": "She-Shed Build (Ongoing)/Before/6FF282B3-CFC8-44E1-B954-7139DAE3C98C.heic"
+      },
+      {
+        "phase": "before",
+        "file": "assets/projects/she-shed-build-ongoing/before-06.webp",
+        "original": "She-Shed Build (Ongoing)/Before/911CCE23-5BE2-40A0-9927-B8B2C5D3431D.heic"
+      },
+      {
+        "phase": "before",
+        "file": "assets/projects/she-shed-build-ongoing/before-07.webp",
+        "original": "She-Shed Build (Ongoing)/Before/7A9467E5-EA75-4563-8A92-9582A1E006FB.jpeg"
+      },
+      {
+        "phase": "before",
+        "file": "assets/projects/she-shed-build-ongoing/before-08.webp",
+        "original": "She-Shed Build (Ongoing)/Before/065834BE-0098-4127-A8B5-2145488E1EBF.heic"
+      },
+      {
+        "phase": "before",
+        "file": "assets/projects/she-shed-build-ongoing/before-09.webp",
+        "original": "She-Shed Build (Ongoing)/Before/9052A0A5-262B-4CFB-B2CE-DFBC7A4E3C49.heic"
+      },
+      {
+        "phase": "before",
+        "file": "assets/projects/she-shed-build-ongoing/before-10.webp",
+        "original": "She-Shed Build (Ongoing)/Before/7D203FC7-E3CB-4EB0-BB5A-2C01824D84B6.heic"
+      },
+      {
+        "phase": "before",
+        "file": "assets/projects/she-shed-build-ongoing/before-11.webp",
+        "original": "She-Shed Build (Ongoing)/Before/736E13BF-BD5C-41D8-B78A-E907DBB94BF5.heic"
+      },
+      {
+        "phase": "before",
+        "file": "assets/projects/she-shed-build-ongoing/before-12.webp",
+        "original": "She-Shed Build (Ongoing)/Before/E606B48F-4148-43BA-90E4-01D80971BBE6.jpeg"
+      },
+      {
+        "phase": "after",
+        "file": "assets/projects/she-shed-build-ongoing/after-01.webp",
+        "original": "She-Shed Build (Ongoing)/After/2925C1FE-EDD4-47FD-8E41-2F51AE5A9B6C.png"
+      }
+    ],
+    "cover": "assets/projects/she-shed-build-ongoing/cover.webp"
+  },
+  {
+    "title": "French Door Refinishing",
+    "slug": "french-door-refinishing",
+    "before": 7,
+    "after": 6,
+    "images": [
+      "assets/projects/french-door-refinishing/before-01.webp",
+      "assets/projects/french-door-refinishing/before-02.webp",
+      "assets/projects/french-door-refinishing/before-03.webp",
+      "assets/projects/french-door-refinishing/before-04.webp",
+      "assets/projects/french-door-refinishing/before-05.webp",
+      "assets/projects/french-door-refinishing/before-06.webp",
+      "assets/projects/french-door-refinishing/before-07.webp",
+      "assets/projects/french-door-refinishing/after-01.webp",
+      "assets/projects/french-door-refinishing/after-02.webp",
+      "assets/projects/french-door-refinishing/after-03.webp",
+      "assets/projects/french-door-refinishing/after-04.webp",
+      "assets/projects/french-door-refinishing/after-05.webp",
+      "assets/projects/french-door-refinishing/after-06.webp"
+    ],
+    "source": [
+      {
+        "phase": "before",
+        "file": "assets/projects/french-door-refinishing/before-01.webp",
+        "original": "French Door Refinishing/Before/CE62C83C-970E-4A8A-960B-319ED57D6717.heic"
+      },
+      {
+        "phase": "before",
+        "file": "assets/projects/french-door-refinishing/before-02.webp",
+        "original": "French Door Refinishing/Before/BEC5D7A6-02FF-475E-9831-182CB31174D5.heic"
+      },
+      {
+        "phase": "before",
+        "file": "assets/projects/french-door-refinishing/before-03.webp",
+        "original": "French Door Refinishing/Before/40C297E5-47D7-4043-A999-6BD4BBB69245.heic"
+      },
+      {
+        "phase": "before",
+        "file": "assets/projects/french-door-refinishing/before-04.webp",
+        "original": "French Door Refinishing/Before/795A2989-36B1-415F-ABDF-1CB006BF3B69.heic"
+      },
+      {
+        "phase": "before",
+        "file": "assets/projects/french-door-refinishing/before-05.webp",
+        "original": "French Door Refinishing/Before/FF3051F9-F5E6-4E5E-A40E-038FDD07A4FE.heic"
+      },
+      {
+        "phase": "before",
+        "file": "assets/projects/french-door-refinishing/before-06.webp",
+        "original": "French Door Refinishing/Before/80263A72-D100-4867-A970-2C6B097B3605.heic"
+      },
+      {
+        "phase": "before",
+        "file": "assets/projects/french-door-refinishing/before-07.webp",
+        "original": "French Door Refinishing/Before/5A384FE9-33E0-436D-8921-8B059C1C47B7.heic"
+      },
+      {
+        "phase": "after",
+        "file": "assets/projects/french-door-refinishing/after-01.webp",
+        "original": "French Door Refinishing/After/596295C5-4346-4798-95FD-4B72A6282BA5.heic"
+      },
+      {
+        "phase": "after",
+        "file": "assets/projects/french-door-refinishing/after-02.webp",
+        "original": "French Door Refinishing/After/8B52DEFC-98E7-4C66-A779-2F466E46B954.heic"
+      },
+      {
+        "phase": "after",
+        "file": "assets/projects/french-door-refinishing/after-03.webp",
+        "original": "French Door Refinishing/After/52F19892-80D5-4276-AFCC-975885B319AB.heic"
+      },
+      {
+        "phase": "after",
+        "file": "assets/projects/french-door-refinishing/after-04.webp",
+        "original": "French Door Refinishing/After/47BAE8FE-D4FC-4167-A332-71AE56882E21.heic"
+      },
+      {
+        "phase": "after",
+        "file": "assets/projects/french-door-refinishing/after-05.webp",
+        "original": "French Door Refinishing/After/C20BB77A-5224-4B71-8D29-45921B7E4C5B.heic"
+      },
+      {
+        "phase": "after",
+        "file": "assets/projects/french-door-refinishing/after-06.webp",
+        "original": "French Door Refinishing/After/4155255D-B20B-4CCD-9870-5D9126C49221.heic"
+      }
+    ],
+    "cover": "assets/projects/french-door-refinishing/cover.webp"
+  },
+  {
+    "title": "Backyard Sodding and Natural Landscaping",
+    "slug": "backyard-sodding-and-natural-landscaping",
+    "before": 5,
+    "after": 6,
+    "images": [
+      "assets/projects/backyard-sodding-and-natural-landscaping/before-01.webp",
+      "assets/projects/backyard-sodding-and-natural-landscaping/before-02.webp",
+      "assets/projects/backyard-sodding-and-natural-landscaping/before-03.webp",
+      "assets/projects/backyard-sodding-and-natural-landscaping/before-04.webp",
+      "assets/projects/backyard-sodding-and-natural-landscaping/before-05.webp",
+      "assets/projects/backyard-sodding-and-natural-landscaping/after-01.webp",
+      "assets/projects/backyard-sodding-and-natural-landscaping/after-02.webp",
+      "assets/projects/backyard-sodding-and-natural-landscaping/after-03.webp",
+      "assets/projects/backyard-sodding-and-natural-landscaping/after-04.webp",
+      "assets/projects/backyard-sodding-and-natural-landscaping/after-05.webp",
+      "assets/projects/backyard-sodding-and-natural-landscaping/after-06.webp"
+    ],
+    "source": [
+      {
+        "phase": "before",
+        "file": "assets/projects/backyard-sodding-and-natural-landscaping/before-01.webp",
+        "original": "Backyard Sodding and Natural Landscaping/Before/BBEDA156-167A-452E-B07D-746BB9797C21.heic"
+      },
+      {
+        "phase": "before",
+        "file": "assets/projects/backyard-sodding-and-natural-landscaping/before-02.webp",
+        "original": "Backyard Sodding and Natural Landscaping/Before/82E601A6-B9AC-4E7D-A3E8-2D2B8131EBEF.heic"
+      },
+      {
+        "phase": "before",
+        "file": "assets/projects/backyard-sodding-and-natural-landscaping/before-03.webp",
+        "original": "Backyard Sodding and Natural Landscaping/Before/21FC2C4F-F4E9-4AC0-A7F9-0E07C83BDC3E.heic"
+      },
+      {
+        "phase": "before",
+        "file": "assets/projects/backyard-sodding-and-natural-landscaping/before-04.webp",
+        "original": "Backyard Sodding and Natural Landscaping/Before/6BC44C80-668E-4FC3-9883-1B2D0E306374.heic"
+      },
+      {
+        "phase": "before",
+        "file": "assets/projects/backyard-sodding-and-natural-landscaping/before-05.webp",
+        "original": "Backyard Sodding and Natural Landscaping/Before/555D9A18-7306-4A20-A05C-82A0BC5B27F2.heic"
+      },
+      {
+        "phase": "after",
+        "file": "assets/projects/backyard-sodding-and-natural-landscaping/after-01.webp",
+        "original": "Backyard Sodding and Natural Landscaping/After/6684D8C3-4F00-42F3-96CB-0EB4F3090E2B.heic"
+      },
+      {
+        "phase": "after",
+        "file": "assets/projects/backyard-sodding-and-natural-landscaping/after-02.webp",
+        "original": "Backyard Sodding and Natural Landscaping/After/EFFC65C7-A0BC-40DF-9E45-7781A0C02A34.heic"
+      },
+      {
+        "phase": "after",
+        "file": "assets/projects/backyard-sodding-and-natural-landscaping/after-03.webp",
+        "original": "Backyard Sodding and Natural Landscaping/After/AA2DFC44-EFAB-448C-A431-ADE40F604FF0.heic"
+      },
+      {
+        "phase": "after",
+        "file": "assets/projects/backyard-sodding-and-natural-landscaping/after-04.webp",
+        "original": "Backyard Sodding and Natural Landscaping/After/DC602147-CBB7-48B8-8252-1464C3F7240D.heic"
+      },
+      {
+        "phase": "after",
+        "file": "assets/projects/backyard-sodding-and-natural-landscaping/after-05.webp",
+        "original": "Backyard Sodding and Natural Landscaping/After/1DE9A6F9-16E2-490C-9989-1CF86DA9EAB3.heic"
+      },
+      {
+        "phase": "after",
+        "file": "assets/projects/backyard-sodding-and-natural-landscaping/after-06.webp",
+        "original": "Backyard Sodding and Natural Landscaping/After/BA29762F-45E3-4D45-9F80-58E77BA450CD.heic"
+      }
+    ],
+    "cover": "assets/projects/backyard-sodding-and-natural-landscaping/cover.webp"
+  },
+  {
+    "title": "Basement Partition Wall Build",
+    "slug": "basement-partition-wall-build",
+    "before": 4,
+    "after": 4,
+    "images": [
+      "assets/projects/basement-partition-wall-build/before-01.webp",
+      "assets/projects/basement-partition-wall-build/before-02.webp",
+      "assets/projects/basement-partition-wall-build/before-03.webp",
+      "assets/projects/basement-partition-wall-build/before-04.webp",
+      "assets/projects/basement-partition-wall-build/after-01.webp",
+      "assets/projects/basement-partition-wall-build/after-02.webp",
+      "assets/projects/basement-partition-wall-build/after-03.webp",
+      "assets/projects/basement-partition-wall-build/after-04.webp"
+    ],
+    "source": [
+      {
+        "phase": "before",
+        "file": "assets/projects/basement-partition-wall-build/before-01.webp",
+        "original": "Basement Partition Wall Build/Before/6F754597-913C-4F25-9977-890BB0064915.heic"
+      },
+      {
+        "phase": "before",
+        "file": "assets/projects/basement-partition-wall-build/before-02.webp",
+        "original": "Basement Partition Wall Build/Before/9B29C0F6-0B00-414B-A4AF-EA94F30BFA45.heic"
+      },
+      {
+        "phase": "before",
+        "file": "assets/projects/basement-partition-wall-build/before-03.webp",
+        "original": "Basement Partition Wall Build/Before/8CB88AB3-E537-4AB2-98F0-79E692F74E89.heic"
+      },
+      {
+        "phase": "before",
+        "file": "assets/projects/basement-partition-wall-build/before-04.webp",
+        "original": "Basement Partition Wall Build/Before/6F8FFD50-6845-43E7-9B49-072AFCAED11E.heic"
+      },
+      {
+        "phase": "after",
+        "file": "assets/projects/basement-partition-wall-build/after-01.webp",
+        "original": "Basement Partition Wall Build/After/9E17C1A4-1A57-4EAC-9F9D-0F643548C1B9.heic"
+      },
+      {
+        "phase": "after",
+        "file": "assets/projects/basement-partition-wall-build/after-02.webp",
+        "original": "Basement Partition Wall Build/After/D1B517D9-0423-4CBA-AFCB-163DCF9FCC58.heic"
+      },
+      {
+        "phase": "after",
+        "file": "assets/projects/basement-partition-wall-build/after-03.webp",
+        "original": "Basement Partition Wall Build/After/FB4589CA-3EE0-40D0-9B21-F2E7A28EB12B.heic"
+      },
+      {
+        "phase": "after",
+        "file": "assets/projects/basement-partition-wall-build/after-04.webp",
+        "original": "Basement Partition Wall Build/After/F931632C-08AB-41BD-AA1C-7F6C2080C8C3.heic"
+      }
+    ],
+    "cover": "assets/projects/basement-partition-wall-build/cover.webp"
+  },
+  {
+    "title": "Ceiling Leak Damage Repair",
+    "slug": "ceiling-leak-damage-repair",
+    "before": 3,
+    "after": 4,
+    "images": [
+      "assets/projects/ceiling-leak-damage-repair/before-01.webp",
+      "assets/projects/ceiling-leak-damage-repair/before-02.webp",
+      "assets/projects/ceiling-leak-damage-repair/before-03.webp",
+      "assets/projects/ceiling-leak-damage-repair/after-01.webp",
+      "assets/projects/ceiling-leak-damage-repair/after-02.webp",
+      "assets/projects/ceiling-leak-damage-repair/after-03.webp",
+      "assets/projects/ceiling-leak-damage-repair/after-04.webp"
+    ],
+    "source": [
+      {
+        "phase": "before",
+        "file": "assets/projects/ceiling-leak-damage-repair/before-01.webp",
+        "original": "Ceiling Leak Damage Repair/Before/AB7BFEAE-8441-4AC0-BCED-C625E7FB0BFA.jpeg"
+      },
+      {
+        "phase": "before",
+        "file": "assets/projects/ceiling-leak-damage-repair/before-02.webp",
+        "original": "Ceiling Leak Damage Repair/Before/CA373B49-AB95-4914-8F4D-16A06EA9A7D1.jpeg"
+      },
+      {
+        "phase": "before",
+        "file": "assets/projects/ceiling-leak-damage-repair/before-03.webp",
+        "original": "Ceiling Leak Damage Repair/Before/C6733D76-85D9-404F-A831-5E4A792C8462.jpeg"
+      },
+      {
+        "phase": "after",
+        "file": "assets/projects/ceiling-leak-damage-repair/after-01.webp",
+        "original": "Ceiling Leak Damage Repair/After/226E4238-D055-4D1E-BE58-3CAD28E82D6D.heic"
+      },
+      {
+        "phase": "after",
+        "file": "assets/projects/ceiling-leak-damage-repair/after-02.webp",
+        "original": "Ceiling Leak Damage Repair/After/A1E52496-9A07-4938-BDAD-041392797D7C.heic"
+      },
+      {
+        "phase": "after",
+        "file": "assets/projects/ceiling-leak-damage-repair/after-03.webp",
+        "original": "Ceiling Leak Damage Repair/After/310F9E33-9FFD-4EC9-811F-3F5ED2A227F4.heic"
+      },
+      {
+        "phase": "after",
+        "file": "assets/projects/ceiling-leak-damage-repair/after-04.webp",
+        "original": "Ceiling Leak Damage Repair/After/0639225B-E515-49D1-9398-EA00A01F9E2A.heic"
+      }
+    ],
+    "cover": "assets/projects/ceiling-leak-damage-repair/cover.webp"
+  },
+  {
+    "title": "Basement Organize",
+    "slug": "basement-organize",
+    "before": 1,
+    "after": 1,
+    "images": [
+      "assets/projects/basement-organize/before-01.webp",
+      "assets/projects/basement-organize/after-01.webp"
+    ],
+    "source": [
+      {
+        "phase": "before",
+        "file": "assets/projects/basement-organize/before-01.webp",
+        "original": "Basement Organize/Before/1FD2A64F-BA3A-4A8B-9864-C6D267DB473F.heic"
+      },
+      {
+        "phase": "after",
+        "file": "assets/projects/basement-organize/after-01.webp",
+        "original": "Basement Organize/After/6F754597-913C-4F25-9977-890BB0064915.heic"
+      }
+    ],
+    "cover": "assets/projects/basement-organize/cover.webp"
+  },
+  {
+    "title": "Tree Trim",
+    "slug": "tree-trim",
+    "before": 4,
+    "after": 5,
+    "images": [
+      "assets/projects/tree-trim/before-01.webp",
+      "assets/projects/tree-trim/before-02.webp",
+      "assets/projects/tree-trim/before-03.webp",
+      "assets/projects/tree-trim/before-04.webp",
+      "assets/projects/tree-trim/after-01.webp",
+      "assets/projects/tree-trim/after-02.webp",
+      "assets/projects/tree-trim/after-03.webp",
+      "assets/projects/tree-trim/after-04.webp",
+      "assets/projects/tree-trim/after-05.webp"
+    ],
+    "source": [
+      {
+        "phase": "before",
+        "file": "assets/projects/tree-trim/before-01.webp",
+        "original": "Tree Trim/Before/6A019151-1FB8-44FE-B363-39444069FECD.heic"
+      },
+      {
+        "phase": "before",
+        "file": "assets/projects/tree-trim/before-02.webp",
+        "original": "Tree Trim/Before/D8F6EA1A-94C5-44A6-B1B3-E999541D54EE.heic"
+      },
+      {
+        "phase": "before",
+        "file": "assets/projects/tree-trim/before-03.webp",
+        "original": "Tree Trim/Before/514A99AD-02AB-45E0-8767-0AAA82534D62.heic"
+      },
+      {
+        "phase": "before",
+        "file": "assets/projects/tree-trim/before-04.webp",
+        "original": "Tree Trim/Before/AB3BD86B-AEF6-4236-85DF-0D48E45F65ED.heic"
+      },
+      {
+        "phase": "after",
+        "file": "assets/projects/tree-trim/after-01.webp",
+        "original": "Tree Trim/After/B31676A3-9DB8-42B5-BF94-5C325B7183EB.heic"
+      },
+      {
+        "phase": "after",
+        "file": "assets/projects/tree-trim/after-02.webp",
+        "original": "Tree Trim/After/B31676A3-9DB8-42B5-BF94-5C325B7183ED.png"
+      },
+      {
+        "phase": "after",
+        "file": "assets/projects/tree-trim/after-03.webp",
+        "original": "Tree Trim/After/B31676A3-9DB8-42B5-BF94-5C325B7183EE.png"
+      },
+      {
+        "phase": "after",
+        "file": "assets/projects/tree-trim/after-04.webp",
+        "original": "Tree Trim/After/B31676A3-9DB8-42B5-BF94-5C325B7183EA.png"
+      },
+      {
+        "phase": "after",
+        "file": "assets/projects/tree-trim/after-05.webp",
+        "original": "Tree Trim/After/B31676A3-9DB8-42B5-BF94-5C325B7183EC.png"
+      }
+    ],
+    "cover": "assets/projects/tree-trim/cover.webp"
+  },
+  {
+    "title": "Front Patio",
+    "slug": "front-patio",
+    "before": 5,
+    "after": 4,
+    "images": [
+      "assets/projects/front-patio/before-01.webp",
+      "assets/projects/front-patio/before-02.webp",
+      "assets/projects/front-patio/before-03.webp",
+      "assets/projects/front-patio/before-04.webp",
+      "assets/projects/front-patio/before-05.webp",
+      "assets/projects/front-patio/after-01.webp",
+      "assets/projects/front-patio/after-02.webp",
+      "assets/projects/front-patio/after-03.webp",
+      "assets/projects/front-patio/after-04.webp"
+    ],
+    "source": [
+      {
+        "phase": "before",
+        "file": "assets/projects/front-patio/before-01.webp",
+        "original": "Front Patio /Before/905D3D5F-CC08-4862-922B-49C97FBC1648.heic"
+      },
+      {
+        "phase": "before",
+        "file": "assets/projects/front-patio/before-02.webp",
+        "original": "Front Patio /Before/E21FE2F5-18DB-4DA4-9418-89A807448FF1.heic"
+      },
+      {
+        "phase": "before",
+        "file": "assets/projects/front-patio/before-03.webp",
+        "original": "Front Patio /Before/20794413-1F39-4501-A403-A95356F3A689.heic"
+      },
+      {
+        "phase": "before",
+        "file": "assets/projects/front-patio/before-04.webp",
+        "original": "Front Patio /Before/435C1D02-1122-42FF-B492-E0ED64319990.heic"
+      },
+      {
+        "phase": "before",
+        "file": "assets/projects/front-patio/before-05.webp",
+        "original": "Front Patio /Before/6AFAD83D-3B13-4D20-8EE1-665FF63245C4.heic"
+      },
+      {
+        "phase": "after",
+        "file": "assets/projects/front-patio/after-01.webp",
+        "original": "Front Patio /After/8B1F706C-BC24-4F7A-A69A-5DC7531F65D9.heic"
+      },
+      {
+        "phase": "after",
+        "file": "assets/projects/front-patio/after-02.webp",
+        "original": "Front Patio /After/E49236F2-0FE7-4F93-9DA6-49E60D3549DB.heic"
+      },
+      {
+        "phase": "after",
+        "file": "assets/projects/front-patio/after-03.webp",
+        "original": "Front Patio /After/99E719E2-0525-4FB5-A753-8DED2247C343.heic"
+      },
+      {
+        "phase": "after",
+        "file": "assets/projects/front-patio/after-04.webp",
+        "original": "Front Patio /After/16B25958-99E1-40F8-8EAD-F53A5AE2C86F.heic"
+      }
+    ],
+    "cover": "assets/projects/front-patio/cover.webp"
+  },
+  {
+    "title": "Front Awening Work",
+    "slug": "front-awening-work",
+    "before": 2,
+    "after": 5,
+    "images": [
+      "assets/projects/front-awening-work/before-01.webp",
+      "assets/projects/front-awening-work/before-02.webp",
+      "assets/projects/front-awening-work/after-01.webp",
+      "assets/projects/front-awening-work/after-02.webp",
+      "assets/projects/front-awening-work/after-03.webp",
+      "assets/projects/front-awening-work/after-04.webp",
+      "assets/projects/front-awening-work/after-05.webp"
+    ],
+    "source": [
+      {
+        "phase": "before",
+        "file": "assets/projects/front-awening-work/before-01.webp",
+        "original": "Front Awening Work/Before/5F1A6FF6-1008-4BA2-8CDD-CC2CD4E335AC.heic"
+      },
+      {
+        "phase": "before",
+        "file": "assets/projects/front-awening-work/before-02.webp",
+        "original": "Front Awening Work/Before/211CD723-35EA-483E-8F09-0D0FFCA77080.heic"
+      },
+      {
+        "phase": "after",
+        "file": "assets/projects/front-awening-work/after-01.webp",
+        "original": "Front Awening Work/After/CF541810-09C3-4517-947A-AEEFAB8D2EAA.heic"
+      },
+      {
+        "phase": "after",
+        "file": "assets/projects/front-awening-work/after-02.webp",
+        "original": "Front Awening Work/After/3D6255A3-DEC5-4CF6-9D61-05BAC0AE6F00.heic"
+      },
+      {
+        "phase": "after",
+        "file": "assets/projects/front-awening-work/after-03.webp",
+        "original": "Front Awening Work/After/79E760A0-28E5-48E6-BA4D-8CE5B7C24C56.heic"
+      },
+      {
+        "phase": "after",
+        "file": "assets/projects/front-awening-work/after-04.webp",
+        "original": "Front Awening Work/After/994CB939-8E20-41B1-8BDA-58528290EDB6.heic"
+      },
+      {
+        "phase": "after",
+        "file": "assets/projects/front-awening-work/after-05.webp",
+        "original": "Front Awening Work/After/CA8CC44B-853B-44ED-8199-CCED894A1EE9.heic"
+      }
+    ],
+    "cover": "assets/projects/front-awening-work/cover.webp"
+  },
+  {
+    "title": "Backyard Cleanup",
+    "slug": "backyard-cleanup",
+    "before": 5,
+    "after": 3,
+    "images": [
+      "assets/projects/backyard-cleanup/before-01.webp",
+      "assets/projects/backyard-cleanup/before-02.webp",
+      "assets/projects/backyard-cleanup/before-03.webp",
+      "assets/projects/backyard-cleanup/before-04.webp",
+      "assets/projects/backyard-cleanup/before-05.webp",
+      "assets/projects/backyard-cleanup/after-01.webp",
+      "assets/projects/backyard-cleanup/after-02.webp",
+      "assets/projects/backyard-cleanup/after-03.webp"
+    ],
+    "source": [
+      {
+        "phase": "before",
+        "file": "assets/projects/backyard-cleanup/before-01.webp",
+        "original": "Backyard Cleanup/Before/BD1AF7A2-0DEF-4FB5-A7DA-763261880628.heic"
+      },
+      {
+        "phase": "before",
+        "file": "assets/projects/backyard-cleanup/before-02.webp",
+        "original": "Backyard Cleanup/Before/B91365CF-E716-402B-B2D4-8E499D43446C.heic"
+      },
+      {
+        "phase": "before",
+        "file": "assets/projects/backyard-cleanup/before-03.webp",
+        "original": "Backyard Cleanup/Before/03E55D03-9B08-46C0-9C2D-E98679677C7D.heic"
+      },
+      {
+        "phase": "before",
+        "file": "assets/projects/backyard-cleanup/before-04.webp",
+        "original": "Backyard Cleanup/Before/A441F002-7566-4F96-A942-0F6488C0C2CA.heic"
+      },
+      {
+        "phase": "before",
+        "file": "assets/projects/backyard-cleanup/before-05.webp",
+        "original": "Backyard Cleanup/Before/C63F5EDE-DA91-4BC6-BF58-BDA5A2A6D0AA.heic"
+      },
+      {
+        "phase": "after",
+        "file": "assets/projects/backyard-cleanup/after-01.webp",
+        "original": "Backyard Cleanup/After/031B707F-3FEC-40B0-ADC4-9014896C39CA.heic"
+      },
+      {
+        "phase": "after",
+        "file": "assets/projects/backyard-cleanup/after-02.webp",
+        "original": "Backyard Cleanup/After/B797A3CA-FBBD-4F06-9BA0-4006BE12EC93.heic"
+      },
+      {
+        "phase": "after",
+        "file": "assets/projects/backyard-cleanup/after-03.webp",
+        "original": "Backyard Cleanup/After/EBB2BF81-F859-4C1B-9B5B-EC0A6FAD7EAE.heic"
+      }
+    ],
+    "cover": "assets/projects/backyard-cleanup/cover.webp"
+  },
+  {
+    "title": "Deadwooding and Brush Removal",
+    "slug": "deadwooding-and-brush-removal",
+    "before": 5,
+    "after": 5,
+    "images": [
+      "assets/projects/deadwooding-and-brush-removal/before-01.webp",
+      "assets/projects/deadwooding-and-brush-removal/before-02.webp",
+      "assets/projects/deadwooding-and-brush-removal/before-03.webp",
+      "assets/projects/deadwooding-and-brush-removal/before-04.webp",
+      "assets/projects/deadwooding-and-brush-removal/before-05.webp",
+      "assets/projects/deadwooding-and-brush-removal/after-01.webp",
+      "assets/projects/deadwooding-and-brush-removal/after-02.webp",
+      "assets/projects/deadwooding-and-brush-removal/after-03.webp",
+      "assets/projects/deadwooding-and-brush-removal/after-04.webp",
+      "assets/projects/deadwooding-and-brush-removal/after-05.webp"
+    ],
+    "source": [
+      {
+        "phase": "before",
+        "file": "assets/projects/deadwooding-and-brush-removal/before-01.webp",
+        "original": "Deadwooding and Brush Removal/Before/2097F7AF-DD80-4B04-A91D-25B00803C5BB.heic"
+      },
+      {
+        "phase": "before",
+        "file": "assets/projects/deadwooding-and-brush-removal/before-02.webp",
+        "original": "Deadwooding and Brush Removal/Before/4E33CFC0-44AD-4F71-A8D4-845994ECA257.heic"
+      },
+      {
+        "phase": "before",
+        "file": "assets/projects/deadwooding-and-brush-removal/before-03.webp",
+        "original": "Deadwooding and Brush Removal/Before/5379EB6D-036A-4302-A7B3-E6BF193CFD39.heic"
+      },
+      {
+        "phase": "before",
+        "file": "assets/projects/deadwooding-and-brush-removal/before-04.webp",
+        "original": "Deadwooding and Brush Removal/Before/9C5B2A70-6E45-4EDF-8B21-C926138FD3EF.heic"
+      },
+      {
+        "phase": "before",
+        "file": "assets/projects/deadwooding-and-brush-removal/before-05.webp",
+        "original": "Deadwooding and Brush Removal/Before/ACD8AF49-2B2A-455C-A587-AEAECE48856E.heic"
+      },
+      {
+        "phase": "after",
+        "file": "assets/projects/deadwooding-and-brush-removal/after-01.webp",
+        "original": "Deadwooding and Brush Removal/After/3D4E2D49-964E-4BCE-9839-7038CDA130A6.heic"
+      },
+      {
+        "phase": "after",
+        "file": "assets/projects/deadwooding-and-brush-removal/after-02.webp",
+        "original": "Deadwooding and Brush Removal/After/CC481FA3-D7DD-4A80-9EBA-EE375C0BCDB0.heic"
+      },
+      {
+        "phase": "after",
+        "file": "assets/projects/deadwooding-and-brush-removal/after-03.webp",
+        "original": "Deadwooding and Brush Removal/After/843D6DDC-A3DB-4D60-ADD9-89573B745977.heic"
+      },
+      {
+        "phase": "after",
+        "file": "assets/projects/deadwooding-and-brush-removal/after-04.webp",
+        "original": "Deadwooding and Brush Removal/After/DF476F71-1A51-4BD4-B45E-356D08F433BF.heic"
+      },
+      {
+        "phase": "after",
+        "file": "assets/projects/deadwooding-and-brush-removal/after-05.webp",
+        "original": "Deadwooding and Brush Removal/After/CF3CCAC6-F7CC-4145-8D50-C7AFFFA84ADD.heic"
+      }
+    ],
+    "cover": "assets/projects/deadwooding-and-brush-removal/cover.webp"
+  },
+  {
+    "title": "Deck Maintenance",
+    "slug": "deck-maintenance",
+    "before": 5,
+    "after": 3,
+    "images": [
+      "assets/projects/deck-maintenance/before-01.webp",
+      "assets/projects/deck-maintenance/before-02.webp",
+      "assets/projects/deck-maintenance/before-03.webp",
+      "assets/projects/deck-maintenance/before-04.webp",
+      "assets/projects/deck-maintenance/before-05.webp",
+      "assets/projects/deck-maintenance/after-01.webp",
+      "assets/projects/deck-maintenance/after-02.webp",
+      "assets/projects/deck-maintenance/after-03.webp"
+    ],
+    "source": [
+      {
+        "phase": "before",
+        "file": "assets/projects/deck-maintenance/before-01.webp",
+        "original": "Deck Maintenance/Before/3B02033A-E6C2-40D7-829B-00CDFF305221.heic"
+      },
+      {
+        "phase": "before",
+        "file": "assets/projects/deck-maintenance/before-02.webp",
+        "original": "Deck Maintenance/Before/3E8A74A4-DEC1-4229-8DB1-979AC9FCAC25.heic"
+      },
+      {
+        "phase": "before",
+        "file": "assets/projects/deck-maintenance/before-03.webp",
+        "original": "Deck Maintenance/Before/FCE897DA-90CE-4F55-B4EC-8276C40191B4.heic"
+      },
+      {
+        "phase": "before",
+        "file": "assets/projects/deck-maintenance/before-04.webp",
+        "original": "Deck Maintenance/Before/1FC43B6E-CC99-4258-A070-1FC0734D9E20.heic"
+      },
+      {
+        "phase": "before",
+        "file": "assets/projects/deck-maintenance/before-05.webp",
+        "original": "Deck Maintenance/Before/FDB54BAD-4C5D-4E26-A312-6FDDE8A2269E.heic"
+      },
+      {
+        "phase": "after",
+        "file": "assets/projects/deck-maintenance/after-01.webp",
+        "original": "Deck Maintenance/After/D9411DA3-B01E-4531-BD07-2E772C1785A8.heic"
+      },
+      {
+        "phase": "after",
+        "file": "assets/projects/deck-maintenance/after-02.webp",
+        "original": "Deck Maintenance/After/53C87EA4-71DD-46BF-A9CE-4C0D9C37B9BD.heic"
+      },
+      {
+        "phase": "after",
+        "file": "assets/projects/deck-maintenance/after-03.webp",
+        "original": "Deck Maintenance/After/940C1FEC-E608-4F94-9A6D-5EDE21EDD07E.heic"
+      }
+    ],
+    "cover": "assets/projects/deck-maintenance/cover.webp"
+  },
+  {
+    "title": "Basement Leak Repair",
+    "slug": "basement-leak-repair",
+    "before": 7,
+    "after": 4,
+    "images": [
+      "assets/projects/basement-leak-repair/before-01.webp",
+      "assets/projects/basement-leak-repair/before-02.webp",
+      "assets/projects/basement-leak-repair/before-03.webp",
+      "assets/projects/basement-leak-repair/before-04.webp",
+      "assets/projects/basement-leak-repair/before-05.webp",
+      "assets/projects/basement-leak-repair/before-06.webp",
+      "assets/projects/basement-leak-repair/before-07.webp",
+      "assets/projects/basement-leak-repair/after-01.webp",
+      "assets/projects/basement-leak-repair/after-02.webp",
+      "assets/projects/basement-leak-repair/after-03.webp",
+      "assets/projects/basement-leak-repair/after-04.webp"
+    ],
+    "source": [
+      {
+        "phase": "before",
+        "file": "assets/projects/basement-leak-repair/before-01.webp",
+        "original": "Basement Leak Repair/Before/4D2145AB-7A3E-4FF0-8A5D-FC3A9E38846D.heic"
+      },
+      {
+        "phase": "before",
+        "file": "assets/projects/basement-leak-repair/before-02.webp",
+        "original": "Basement Leak Repair/Before/1343D10C-8A9A-4E1C-84D7-A497641E5D94.heic"
+      },
+      {
+        "phase": "before",
+        "file": "assets/projects/basement-leak-repair/before-03.webp",
+        "original": "Basement Leak Repair/Before/12867231-8496-43CE-B24A-9F11057D69C6.heic"
+      },
+      {
+        "phase": "before",
+        "file": "assets/projects/basement-leak-repair/before-04.webp",
+        "original": "Basement Leak Repair/Before/67801DE6-F5E5-4FE9-BBCE-DF36A050F058.heic"
+      },
+      {
+        "phase": "before",
+        "file": "assets/projects/basement-leak-repair/before-05.webp",
+        "original": "Basement Leak Repair/Before/4DBAD9B7-84D2-43A4-AF06-F02D0D4967AD.heic"
+      },
+      {
+        "phase": "before",
+        "file": "assets/projects/basement-leak-repair/before-06.webp",
+        "original": "Basement Leak Repair/Before/08C44B82-0015-44CE-9712-93077877AEFB.heic"
+      },
+      {
+        "phase": "before",
+        "file": "assets/projects/basement-leak-repair/before-07.webp",
+        "original": "Basement Leak Repair/Before/3C5D152C-BFAE-455C-AF43-17384983C3AD.heic"
+      },
+      {
+        "phase": "after",
+        "file": "assets/projects/basement-leak-repair/after-01.webp",
+        "original": "Basement Leak Repair/After/45514409-C0B8-49AF-8575-EDBA0B429CA9.heic"
+      },
+      {
+        "phase": "after",
+        "file": "assets/projects/basement-leak-repair/after-02.webp",
+        "original": "Basement Leak Repair/After/3986A03D-7814-4116-9FB0-7C9987EE48F7.heic"
+      },
+      {
+        "phase": "after",
+        "file": "assets/projects/basement-leak-repair/after-03.webp",
+        "original": "Basement Leak Repair/After/394F7386-B7A0-4F15-AB23-B8DD33C6943B.heic"
+      },
+      {
+        "phase": "after",
+        "file": "assets/projects/basement-leak-repair/after-04.webp",
+        "original": "Basement Leak Repair/After/56B73E1C-B61F-4CC6-846D-48F032BD296E.heic"
+      }
+    ],
+    "cover": "assets/projects/basement-leak-repair/cover.webp"
+  },
+  {
+    "title": "Shed Roof Maintenance",
+    "slug": "shed-roof-maintenance",
+    "before": 5,
+    "after": 4,
+    "images": [
+      "assets/projects/shed-roof-maintenance/before-01.webp",
+      "assets/projects/shed-roof-maintenance/before-02.webp",
+      "assets/projects/shed-roof-maintenance/before-03.webp",
+      "assets/projects/shed-roof-maintenance/before-04.webp",
+      "assets/projects/shed-roof-maintenance/before-05.webp",
+      "assets/projects/shed-roof-maintenance/after-01.webp",
+      "assets/projects/shed-roof-maintenance/after-02.webp",
+      "assets/projects/shed-roof-maintenance/after-03.webp",
+      "assets/projects/shed-roof-maintenance/after-04.webp"
+    ],
+    "source": [
+      {
+        "phase": "before",
+        "file": "assets/projects/shed-roof-maintenance/before-01.webp",
+        "original": "Shed Roof Maintenance/Before/339EA436-666F-4D7F-9EFB-B0DE77163FFF.heic"
+      },
+      {
+        "phase": "before",
+        "file": "assets/projects/shed-roof-maintenance/before-02.webp",
+        "original": "Shed Roof Maintenance/Before/CA94706B-5B46-42A4-860E-C6B11BCFB58C.heic"
+      },
+      {
+        "phase": "before",
+        "file": "assets/projects/shed-roof-maintenance/before-03.webp",
+        "original": "Shed Roof Maintenance/Before/19173262-4FBB-4CC9-A4CC-543A92DD14CF.heic"
+      },
+      {
+        "phase": "before",
+        "file": "assets/projects/shed-roof-maintenance/before-04.webp",
+        "original": "Shed Roof Maintenance/Before/FFBE0050-D612-4F24-972D-7D3184AA4070.heic"
+      },
+      {
+        "phase": "before",
+        "file": "assets/projects/shed-roof-maintenance/before-05.webp",
+        "original": "Shed Roof Maintenance/Before/8686A317-B653-47F8-96A2-6C04743DF25F.heic"
+      },
+      {
+        "phase": "after",
+        "file": "assets/projects/shed-roof-maintenance/after-01.webp",
+        "original": "Shed Roof Maintenance/After/DD346221-24C2-4288-A547-3B6010C100F5.heic"
+      },
+      {
+        "phase": "after",
+        "file": "assets/projects/shed-roof-maintenance/after-02.webp",
+        "original": "Shed Roof Maintenance/After/FF6A8CCD-CAD2-4DEC-A020-20289B31EDBA.heic"
+      },
+      {
+        "phase": "after",
+        "file": "assets/projects/shed-roof-maintenance/after-03.webp",
+        "original": "Shed Roof Maintenance/After/98A3F8DA-F0DF-47CC-8115-20A0303F0E5F.heic"
+      },
+      {
+        "phase": "after",
+        "file": "assets/projects/shed-roof-maintenance/after-04.webp",
+        "original": "Shed Roof Maintenance/After/B2B27E63-3B50-4935-93F3-539520C39F61.heic"
+      }
+    ],
+    "cover": "assets/projects/shed-roof-maintenance/cover.webp"
+  },
+  {
+    "title": "Undersink Leak Fix",
+    "slug": "undersink-leak-fix",
+    "before": 4,
+    "after": 1,
+    "images": [
+      "assets/projects/undersink-leak-fix/before-01.webp",
+      "assets/projects/undersink-leak-fix/before-02.webp",
+      "assets/projects/undersink-leak-fix/before-03.webp",
+      "assets/projects/undersink-leak-fix/before-04.webp",
+      "assets/projects/undersink-leak-fix/after-01.webp"
+    ],
+    "source": [
+      {
+        "phase": "before",
+        "file": "assets/projects/undersink-leak-fix/before-01.webp",
+        "original": "Undersink Leak Fix/Before/AFBB6198-1817-4D3F-97F8-FE0ECC254E49.heic"
+      },
+      {
+        "phase": "before",
+        "file": "assets/projects/undersink-leak-fix/before-02.webp",
+        "original": "Undersink Leak Fix/Before/ABF76038-6D2B-4B88-8A01-76E829DB4F31.heic"
+      },
+      {
+        "phase": "before",
+        "file": "assets/projects/undersink-leak-fix/before-03.webp",
+        "original": "Undersink Leak Fix/Before/143B9A16-C8CF-48EB-9720-D860C36573C1.jpeg"
+      },
+      {
+        "phase": "before",
+        "file": "assets/projects/undersink-leak-fix/before-04.webp",
+        "original": "Undersink Leak Fix/Before/7013D358-0B54-42F6-84A7-887FD1E4F358.heic"
+      },
+      {
+        "phase": "after",
+        "file": "assets/projects/undersink-leak-fix/after-01.webp",
+        "original": "Undersink Leak Fix/After/F13FD2AF-F60F-4D7B-BEEA-D4CC9B561F82.jpeg"
+      }
+    ],
+    "cover": "assets/projects/undersink-leak-fix/cover.webp"
+  }
+]
