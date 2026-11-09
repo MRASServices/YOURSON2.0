@@ -14,12 +14,19 @@
     image.alt = `${title.textContent}, photo ${current + 1} of ${photos.length}`;
     image.src = photos[current]; count.textContent = `${current + 1} / ${photos.length}`;
   }
-  document.querySelectorAll('[data-gallery-images]').forEach(button => button.addEventListener('click', () => {
-    photos = JSON.parse(button.dataset.galleryImages);
-    if (!photos.length) return;
-    opener = button; title.textContent = button.dataset.galleryTitle; subtitle.textContent = button.dataset.gallerySub;
-    showPhoto(0); gallery.showModal(); gallery.querySelector('.memory-gallery-close').focus();
-  }));
+  document.querySelectorAll('[data-gallery-images]').forEach(button => {
+    const trigger = button.closest('.our-work-page .memory-card') ?? button;
+    trigger.addEventListener('click', () => {
+      photos = JSON.parse(button.dataset.galleryImages);
+      if (!photos.length) return;
+      opener = button;
+      title.textContent = button.dataset.galleryTitle;
+      subtitle.textContent = button.dataset.gallerySub;
+      showPhoto(0);
+      gallery.showModal();
+      gallery.querySelector('.memory-gallery-close').focus();
+    });
+  });
   image.addEventListener('error', () => { image.hidden = true; error.hidden = false; });
   gallery.querySelector('.memory-gallery-close').addEventListener('click', () => gallery.close());
   gallery.querySelector('.memory-gallery-previous').addEventListener('click', () => showPhoto(current - 1));
