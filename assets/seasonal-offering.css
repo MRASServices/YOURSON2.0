@@ -1,0 +1,204 @@
+.seasonal-page,
+.home.navigation-preview .seasonal-home-card {
+  --seasonal-red: rgb(0, 0, 0);
+}
+
+.home.navigation-preview .seasonal-home-card {
+  grid-column: 1 / -1;
+  display: block;
+  overflow: hidden;
+  border: 1px solid var(--ink);
+  text-align: center;
+}
+
+.seasonal-home-card .seasonal-card-heading {
+  min-height: 0;
+  gap: .55rem;
+  border: 0;
+  border-radius: 0;
+  padding: 1.1rem;
+  color: var(--seasonal-red);
+}
+
+.home.navigation-preview .seasonal-home-card .seasonal-card-heading p {
+  max-width: none;
+}
+
+.home.navigation-preview .seasonal-home-card:is(:hover, :focus-visible) .seasonal-card-heading {
+  background:rgb(162, 52, 25);
+  color:rgb(0, 0, 0);
+}
+
+.seasonal-banner {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.seasonal-page .preview-page-title {
+  color: rgb(162, 52, 25);
+  white-space: normal;
+}
+
+#main.seasonal-main {
+  width: min(calc(100% - 2rem), 68rem);
+  margin: 0 auto;
+  padding: 129px 0 clamp(2rem, 6vw, 5rem);
+  line-height: 1.65;
+}
+
+.seasonal-main section + section {
+  margin-top: clamp(1rem, 1.5vw, 1rem);
+  padding-top: clamp(1rem, 1vw, 2rem);
+}
+
+.seasonal-main h2,
+.seasonal-main h3,
+.seasonal-main h4 {
+  line-height: 1.25;
+}
+
+.seasonal-main h2 {
+  color: rgb(162, 52, 25);
+  scroll-margin-top: 96px;
+  font-size: clamp(1.55rem, 4.5vw, 2.5rem);
+  font-weight: 500;
+  letter-spacing: .05em;
+  margin: 0 0 1rem;
+}
+
+.seasonal-main p { margin: .7rem 0; }
+
+.seasonal-intro,
+.seasonal-contact { text-align: center; }
+
+.seasonal-intro > p,
+.seasonal-contact > p {
+  max-width: 66ch;
+  margin-inline: auto;
+}
+
+.seasonal-intro .seasonal-eyebrow {
+  color: var(--seasonal-red);
+  font-size: .82rem;
+  font-weight: 650;
+  letter-spacing: .15em;
+}
+
+.seasonal-intro .seasonal-tagline { font-size: clamp(1.1rem, 3vw, 1.45rem); }
+
+.seasonal-points {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: .65rem 1.35rem;
+  padding: 0;
+  margin: 1.5rem 0;
+  list-style: none;
+  font-weight: 600;
+}
+
+.seasonal-intro .seasonal-banner { margin-top: 0rem; }
+
+.seasonal-cta {
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 40px;
+  max-width: 100%;
+  padding: .75rem 1.2rem;
+  border: 1px solid var(--seasonal-red);
+  background: rgb(162, 52, 25);
+  color: rgb(0, 0, 0);
+  text-decoration: none;
+  font-weight: 600;
+  letter-spacing: .04em;
+}
+
+.seasonal-cta:hover,
+.seasonal-cta:focus-visible {
+  background: transparent;
+  color: var(--seasonal-red);
+}
+
+.seasonal-prices {
+  width: 100%;
+  table-layout: fixed;
+  border-collapse: collapse;
+  margin-block: 1.2rem;
+  font-variant-numeric: tabular-nums;
+}
+
+
+
+.seasonal-prices caption {
+  text-align: left;
+  margin-bottom: .55rem;
+  font-size: .92rem;
+}
+
+.seasonal-prices th,
+.seasonal-prices td {
+  padding: .8rem .45rem;
+  border-bottom: 1px solid #16161640;
+  text-align: center;
+  line-height: 1.3;
+}
+
+.seasonal-prices th:first-child { text-align: left; width: 29%; }
+.seasonal-prices tbody th { font-weight: normal; }
+.seasonal-prices thead th {
+  color: rgb(162, 52, 25);
+  border-bottom-color: var(--seasonal-red);
+}
+
+.seasonal-notes-heading { color: rgb(162, 52, 25); }
+.seasonal-notes { margin: 1rem 0; padding-left: 1.25rem; }
+.seasonal-notes li + li { margin-top: .45rem; }
+
+.seasonal-steps {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1.35rem 2rem;
+  margin: 0;
+  padding-inline-start: 1.6rem;
+}
+
+.seasonal-steps > li {
+  border-top: 1px solid #16161640;
+  padding-top: .75rem;
+}
+
+.seasonal-steps > li::marker { color:rgb(162, 52, 25); font-weight: 650; }
+.seasonal-main h3 { margin: .4rem 0 .5rem; font-size: 1.15rem; font-weight: 600; }
+.seasonal-section-lede { font-size: 1.15rem; }
+.seasonal-main section > h4 { margin-top: 1rem; }
+.seasonal-additional-heading,
+.seasonal-steps h3,
+.seasonal-faq-group h4 {
+  color: rgb(162, 52, 25);
+}
+
+.seasonal-faq-group + .seasonal-faq-group { margin-top: 2rem; }
+.seasonal-faq-group h3 { color: var(--seasonal-red); }
+.seasonal-faq-group article { border-top: 1px solid #16161630; padding-block: .65rem; }
+.seasonal-faq-group h4 { margin: .25rem 0 .4rem; font-size: 1rem; }
+.seasonal-faq-group p { max-width: 74ch; margin: 0; }
+.seasonal-faq-group p + p { margin-top: .55rem; }
+.seasonal-contact .seasonal-cta { margin-top: .85rem; }
+
+@media (max-width: 768px) {
+  #main.seasonal-main { padding-top: 101px; }
+  .seasonal-main h2 { scroll-margin-top: 84px; }
+}
+
+@media (max-width: 640px) {
+  .seasonal-steps { grid-template-columns: 1fr; }
+  .seasonal-prices th,
+  .seasonal-prices td { font-size: .83rem; padding-inline: .23rem; }
+  .home.navigation-preview .seasonal-home-card .seasonal-card-heading { min-height: 0; padding: .85rem; }
+  .home.navigation-preview .seasonal-home-card .seasonal-card-heading h2 {
+    font-size: clamp(.95rem, 4.15vw, 1.25rem);
+    letter-spacing: .075em;
+  }
+}
